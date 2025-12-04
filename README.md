@@ -34,4 +34,11 @@ This project applies core **data mining techniques** to analyze structured datas
 
 ## 🛠 Tools & Technologies  
 - **Python**  
-- **Jupyter Notebook**
+- **Jupyter Notebook**  
+- **Pandas, NumPy**  
+- **Matplotlib, Seaborn**  
+- **Scikit-learn**  
+
+---
+
+## 📂 Repository Structure  
