@@ -41,4 +41,27 @@ This project applies core **data mining techniques** to analyze structured datas
 
 ---
 
-## 📂 Repository Structure  
+## ✔ Key Outcomes  
+- Successfully applied multiple classification algorithms  
+- Identified the most influential features  
+- Built clustering models to segment data into meaningful groups  
+- Demonstrated a structured data mining workflow from raw data → insights  
+- Showcased practical ML modeling skills useful for analytics and data science roles  
+
+---
+
+## 🤝 Let’s Connect  
+
+Thank you for taking the time to explore this project!  
+If you’re interested in discussing work opportunities, collaborations, or would like to learn more about my analytics and data science projects, I’d be happy to connect.
+
+You can explore more of my work on my GitHub profile, and feel free to reach out to me directly at **pvatt9@gmail.com**.  
+I enjoy connecting with professionals in the industry and look forward to potential collaborations or meaningful conversations.
+
+Let’s build something impactful together!
+
+
+
+
+
+
